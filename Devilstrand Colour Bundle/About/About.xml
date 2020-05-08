@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Devilstrand Colour Bundle</name>
+	<author>GarbageDayIsHereToStay</author>
+	<packageId>GarbageDayIsHereToStay.DevilstrandColourBundle.GDIHTSDSCB</packageId>
+	<supportedVersions><li>1.1</li></supportedVersions>
+	<description>
+    Devilstrand colour bundle; Same as base game Devilstrand but infused with colours.
+    
+    Singular versions of each colour also available on my workshop.
+	</description>
+</ModMetaData>
